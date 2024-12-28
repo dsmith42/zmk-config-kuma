@@ -1,3 +1,7 @@
+
+# kuma zmk-config
+forked from [urob's zmk-config](https://github.com/urob/zmk-config) as it looked more interesting set up than my basic one.  I will be editing it and making it as my own after experimentation with it.
+
 # urob's zmk-config
 
 This is my personal [ZMK firmware](https://github.com/zmkfirmware/zmk/)
